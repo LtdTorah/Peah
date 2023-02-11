@@ -3,7 +3,7 @@ Peah (“Corner”) is the second tractate in Seder Zeraim (“Order of Seeds”
 
 https://red-sun-2500.on.fleek.co/ is our only official website. Beware of scams.
 
-Pancakeswap:
+Pancakeswap（Aptos）:
 
 https://aptos.pancakeswap.finance/swap?outputCurrency=0xc77eff819e2cf52fd5a71784c058e9b6f0373b7d58c688fe9af2ab1885f65e45%3A%3Acoin%3A%3AT
 
@@ -22,3 +22,7 @@ https://app.realms.today/dao/DQLsyVgxmci3rouQyPuNgdSbRLJXwTRdCNsXBG7oBR9h
 Etherscan：
 
 https://etherscan.io/token/0x21fcf9ee4233dee7838f2a4a16e5a2515ef23f80?a=0x1f1c29c94abe2b8f06b403cc5a61c479167ebc3d
+
+Pancakeswap(ETH):
+
+https://pancakeswap.finance/swap?chain=eth&outputCurrency=0x21fCf9EE4233dEe7838f2A4a16E5a2515Ef23f80
