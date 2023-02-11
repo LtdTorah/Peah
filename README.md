@@ -15,7 +15,7 @@ Solscan:
 
 https://solscan.io/token/3K9HBbAviWBx7CQZ3dTWxfE5XzU8bYGm9tUhjN2t7QoQ
 
-DAO:
+DAO（Realms）:
 
 https://app.realms.today/dao/DQLsyVgxmci3rouQyPuNgdSbRLJXwTRdCNsXBG7oBR9h
 
@@ -26,3 +26,7 @@ https://etherscan.io/token/0x21fcf9ee4233dee7838f2a4a16e5a2515ef23f80?a=0x1f1c29
 Pancakeswap(ETH):
 
 https://pancakeswap.finance/swap?chain=eth&outputCurrency=0x21fCf9EE4233dEe7838f2A4a16E5a2515Ef23f80
+
+DAO(Snapshot):
+
+https://snapshot.org/#/levidao.eth
