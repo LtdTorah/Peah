@@ -18,3 +18,7 @@ https://solscan.io/token/3K9HBbAviWBx7CQZ3dTWxfE5XzU8bYGm9tUhjN2t7QoQ
 DAO:
 
 https://app.realms.today/dao/DQLsyVgxmci3rouQyPuNgdSbRLJXwTRdCNsXBG7oBR9h
+
+Etherscan：
+
+https://etherscan.io/token/0x21fcf9ee4233dee7838f2a4a16e5a2515ef23f80?a=0x1f1c29c94abe2b8f06b403cc5a61c479167ebc3d
