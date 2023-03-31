@@ -30,3 +30,7 @@ https://pancakeswap.finance/swap?chain=eth&outputCurrency=0x21fCf9EE4233dEe7838f
 DAO(Snapshot):
 
 https://snapshot.org/#/levidao.eth
+
+Raydium:
+
+https://raydium.io/swap/?ammId=FCjQXSZapMs7iES4xF5BPQgqVpynq5vS2cWM3rEVZ76W
